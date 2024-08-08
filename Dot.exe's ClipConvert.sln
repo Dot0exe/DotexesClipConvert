@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dot.exe's ClipConvert", "Dot.exe's ClipConvert.csproj", "{EC6FDCEA-F645-4E46-B93B-90B4A515058A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC6FDCEA-F645-4E46-B93B-90B4A515058A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6FDCEA-F645-4E46-B93B-90B4A515058A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6FDCEA-F645-4E46-B93B-90B4A515058A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6FDCEA-F645-4E46-B93B-90B4A515058A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1861727C-B2D7-47D2-9C7A-D1CA0329EC3F}
+	EndGlobalSection
+EndGlobal
